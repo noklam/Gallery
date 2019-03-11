@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+Data Source:
+https://hackmd.io/W2MH0_-dQKa8enw9M83iTA?fbclid=IwAR3YDUJrjllpwetMv3ok216OqE45v7ONKRLI3k_Ak1vajvqwfssyoZjzDQM
 
-You can use the [editor on GitHub](https://github.com/noklam/Gallery/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Render HTML on Github
+https://htmlpreview.github.io/
+or
+https://noklam.github.io/Gallery/xxxx.html
+## Make sure you install ipywidgets for Jupyter Notebook or install nodejs for JupyterLab, if you did not install the ipywidgets, you will see nothing render when you run the code.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## NodeJS
+```
+conda config --add channels conda-forge
+conda install nodejs
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Install Extension
+```
+pip install jupyter_contrib_nbextensions && jupyter contrib nbextension install 
+pip install jupyter_nbextensions_configurator
+jupyter nbextensions_configurator enable --user
+```
+## Jupyter Notebook
+```
+jupyter nbextension enable --py widgetsnbextension
+```
+## Jupyter Lab
+```
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
+```
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/noklam/Gallery/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## qgrid
+```
+jupyter labextension install qgrid
+pip install qgrid
+```
