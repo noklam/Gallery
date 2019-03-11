@@ -3,3 +3,5 @@ https://hackmd.io/W2MH0_-dQKa8enw9M83iTA?fbclid=IwAR3YDUJrjllpwetMv3ok216OqE45v7
 
 Render HTML on Github
 https://htmlpreview.github.io/
+or
+https://noklam.github.io/Gallery/xxxx.html
