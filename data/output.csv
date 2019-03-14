@@ -1,0 +1,498 @@
+donor,recipient,commitment_amount_usd_constant
+Australia,Brazil,10843457.0
+Australia,Chile,11512013.0
+Australia,Colombia,10565816.0
+Australia,Cyprus,18728824.0
+Australia,Czech Republic,6918.0
+Australia,Hungary,984655.0
+Australia,India,982075862.0
+Australia,Korea,7599604.0
+Australia,Poland,3046.0
+Australia,Saudi Arabia,7575.0
+Australia,Slovenia,96659.0
+Australia,South Africa,240893012.0
+Australia,Taiwan,552779.0
+Australia,Thailand,1162746092.0
+Austria,Brazil,52226511.0
+Austria,Chile,6426788.0
+Austria,Colombia,20231447.0
+Austria,Cyprus,51130825.0
+Austria,Czech Republic,36364341.0
+Austria,Estonia,637841.0
+Austria,Hungary,63871235.0
+Austria,India,162421492.0
+Austria,Korea,111526265.0
+Austria,Kuwait,124190.0
+Austria,Latvia,899748.0
+Austria,Lithuania,1520246.0
+Austria,Poland,33184327.0
+Austria,Romania,31695093.0
+Austria,Saudi Arabia,2145296.0
+Austria,Slovak Republic,44700893.0
+Austria,Slovenia,46991641.0
+Austria,South Africa,29251443.0
+Austria,Taiwan,13165781.0
+Austria,Thailand,73958508.0
+Austria,United Arab Emirates,1595041.0
+Belgium,Brazil,212928735.0
+Belgium,Chile,59867040.0
+Belgium,Colombia,102867692.0
+Belgium,Cyprus,149740.0
+Belgium,Czech Republic,2043144.0
+Belgium,Estonia,479423.0
+Belgium,Hungary,1433578.0
+Belgium,India,561481858.0
+Belgium,Korea,52608.0
+Belgium,Latvia,280576.0
+Belgium,Lithuania,646128.0
+Belgium,Poland,800330632.0
+Belgium,Romania,4513915.0
+Belgium,Saudi Arabia,9103.0
+Belgium,Slovak Republic,1635383.0
+Belgium,Slovenia,1314983.0
+Belgium,South Africa,340304159.0
+Belgium,Taiwan,810972.0
+Belgium,Thailand,53295601.0
+Brazil,Chile,9907.0
+Brazil,Colombia,773129.0
+Brazil,France,8227.0
+Brazil,Japan,124673.0
+Brazil,Saudi Arabia,64741.0
+Brazil,South Africa,153763.0
+Canada,Brazil,344019962.0
+Canada,Chile,106773387.0
+Canada,Colombia,671086359.0
+Canada,Cyprus,1410195.0
+Canada,Czech Republic,35911427.0
+Canada,Estonia,6427755.0
+Canada,Hungary,15859229.0
+Canada,India,3659444746.0
+Canada,Korea,3865408.0
+Canada,Kuwait,1568.0
+Canada,Latvia,10030919.0
+Canada,Lithuania,12308331.0
+Canada,Poland,1307586093.0
+Canada,Romania,44042357.0
+Canada,Saudi Arabia,16166.0
+Canada,Slovak Republic,14970632.0
+Canada,Slovenia,25872980.0
+Canada,South Africa,370099631.0
+Canada,Thailand,836611055.0
+Chile,Brazil,78376.0
+Chile,Chile,108.0
+Chile,Colombia,480945.0
+Chile,United States,4920.0
+Colombia,Chile,158059.0
+Colombia,Colombia,11468.0
+Colombia,Thailand,20249.0
+Colombia,United States,1019.0
+Cyprus,India,5599.0
+Czech Republic,Brazil,19072.0
+Czech Republic,Chile,928893.0
+Czech Republic,Colombia,132556.0
+Czech Republic,Estonia,43746.0
+Czech Republic,India,2056065.0
+Czech Republic,Latvia,181792.0
+Czech Republic,Lithuania,849451.0
+Czech Republic,Romania,4506558.0
+Czech Republic,Slovak Republic,32178.0
+Czech Republic,South Africa,25016.0
+Czech Republic,Thailand,155108.0
+Denmark,Brazil,3184580.0
+Denmark,Chile,33407149.0
+Denmark,Colombia,3146117.0
+Denmark,India,2004368952.0
+Denmark,South Africa,411760384.0
+Denmark,Thailand,489489466.0
+Denmark,United Arab Emirates,7059757.0
+Estonia,Czech Republic,94211.0
+Estonia,India,138257.0
+Estonia,Poland,46474.0
+Finland,Brazil,25810862.0
+Finland,Chile,9423678.0
+Finland,Colombia,23761728.0
+Finland,Czech Republic,894384.0
+Finland,Estonia,41612196.0
+Finland,Hungary,12089983.0
+Finland,India,182512666.0
+Finland,Latvia,19882388.0
+Finland,Lithuania,12493168.0
+Finland,Poland,12233233.0
+Finland,Romania,26671.0
+Finland,Saudi Arabia,38710.0
+Finland,Slovak Republic,181612.0
+Finland,South Africa,198796278.0
+Finland,Thailand,126195858.0
+France,Brazil,3297628513.0
+France,Chile,423553789.0
+France,Colombia,1680107102.0
+France,Cyprus,59146756.0
+France,Czech Republic,97980891.0
+France,Estonia,13028164.0
+France,Hungary,172396140.0
+France,India,4139074370.0
+France,Korea,148847642.0
+France,Kuwait,21944819.0
+France,Latvia,12878608.0
+France,Lithuania,28369474.0
+France,Poland,2005432347.0
+France,Qatar,7132589.0
+France,Romania,241984953.0
+France,Saudi Arabia,43705887.0
+France,Slovak Republic,49945982.0
+France,Slovenia,12821097.0
+France,South Africa,1901701859.0
+France,Taiwan,38133611.0
+France,Thailand,1049660923.0
+France,United Arab Emirates,10984119.0
+Germany,Brazil,4063216247.0
+Germany,Chile,1365472828.0
+Germany,Colombia,1238911524.0
+Germany,Cyprus,112651716.0
+Germany,Czech Republic,88260457.0
+Germany,Estonia,18124997.0
+Germany,Hungary,105587476.0
+Germany,India,18017983208.0
+Germany,Korea,691327750.0
+Germany,Kuwait,5859569.0
+Germany,Latvia,28041049.0
+Germany,Lithuania,46788768.0
+Germany,Poland,17230746024.0
+Germany,Qatar,432959.0
+Germany,Romania,222430428.0
+Germany,Saudi Arabia,14096654.0
+Germany,Slovak Republic,47343284.0
+Germany,Slovenia,109892941.0
+Germany,South Africa,1784147995.0
+Germany,Taiwan,53175422.0
+Germany,Thailand,1702275036.0
+Germany,United Arab Emirates,271672489.0
+Greece,Brazil,6017626.0
+Greece,Chile,1245391.0
+Greece,Colombia,508081.0
+Greece,Cyprus,1154173.0
+Greece,Czech Republic,226778.0
+Greece,Estonia,53968.0
+Greece,Hungary,54237.0
+Greece,India,1400035.0
+Greece,Korea,239451.0
+Greece,Latvia,102967.0
+Greece,Lithuania,34672.0
+Greece,Poland,1739810.0
+Greece,Romania,7699665.0
+Greece,Saudi Arabia,831789.0
+Greece,Slovak Republic,62166.0
+Greece,Slovenia,412017.0
+Greece,South Africa,9409990.0
+Greece,Taiwan,24169.0
+Greece,Thailand,1446161.0
+Greece,United Arab Emirates,4039.0
+Hungary,Canada,55468.0
+Hungary,Romania,269084.0
+Iceland,India,20458.0
+Iceland,South Africa,152043.0
+Ireland,Brazil,17590489.0
+Ireland,Chile,2159916.0
+Ireland,Colombia,19468675.0
+Ireland,Hungary,60706.0
+Ireland,India,58328825.0
+Ireland,Korea,205868.0
+Ireland,Latvia,15001.0
+Ireland,Romania,335098.0
+Ireland,Slovak Republic,13999.0
+Ireland,South Africa,192651212.0
+Ireland,Thailand,4314669.0
+Italy,Brazil,1843859410.0
+Italy,Chile,169818458.0
+Italy,Colombia,306112843.0
+Italy,Cyprus,13345573.0
+Italy,Czech Republic,6202973.0
+Italy,Estonia,565804.0
+Italy,Hungary,8524063.0
+Italy,India,1237117872.0
+Italy,Korea,7324360.0
+Italy,Kuwait,327910.0
+Italy,Latvia,1255166.0
+Italy,Lithuania,3400359.0
+Italy,Poland,57102621.0
+Italy,Romania,25578574.0
+Italy,Saudi Arabia,277701.0
+Italy,Slovak Republic,6619735.0
+Italy,Slovenia,6608256.0
+Italy,South Africa,106916806.0
+Italy,Taiwan,5324.0
+Italy,Thailand,34627069.0
+Italy,United Arab Emirates,65097.0
+Japan,Brazil,10406029105.0
+Japan,Chile,703444054.0
+Japan,Colombia,1414487282.0
+Japan,Cyprus,27266.0
+Japan,Czech Republic,543758147.0
+Japan,Estonia,33732683.0
+Japan,Hungary,680145878.0
+Japan,India,48830067295.0
+Japan,Korea,13029452754.0
+Japan,Kuwait,4397148.0
+Japan,Latvia,51083689.0
+Japan,Lithuania,78826496.0
+Japan,Poland,116688443.0
+Japan,Qatar,3050875.0
+Japan,Romania,801669787.0
+Japan,Saudi Arabia,373261027.0
+Japan,Slovak Republic,485216855.0
+Japan,Slovenia,316243.0
+Japan,South Africa,1176312073.0
+Japan,Taiwan,5349281.0
+Japan,Thailand,35437690727.0
+Japan,United Arab Emirates,7247064.0
+Korea,Brazil,204472350.0
+Korea,Chile,43598915.0
+Korea,Colombia,85662550.0
+Korea,India,838979022.0
+Korea,Saudi Arabia,167923.0
+Korea,South Africa,20345015.0
+Korea,Thailand,105821945.0
+Kuwait,Cyprus,192431763.0
+Kuwait,India,893157410.0
+Kuwait,Lithuania,21381183.0
+Kuwait,Slovak Republic,1219994.0
+Kuwait,Thailand,260887969.0
+Liechtenstein,Austria,358894.0
+Liechtenstein,Colombia,175954.0
+Liechtenstein,Czech Republic,342761.0
+Liechtenstein,Estonia,7689.0
+Liechtenstein,Finland,73670.0
+Liechtenstein,Germany,60164.0
+Liechtenstein,Hungary,493120.0
+Liechtenstein,India,288892.0
+Liechtenstein,Italy,791968.0
+Liechtenstein,Latvia,14990.0
+Liechtenstein,Liechtenstein,128713.0
+Liechtenstein,Lithuania,58202.0
+Liechtenstein,Poland,466742.0
+Liechtenstein,Romania,726817.0
+Liechtenstein,Slovak Republic,33776.0
+Liechtenstein,Slovenia,10404.0
+Liechtenstein,Switzerland,326783.0
+Liechtenstein,Thailand,11161.0
+Luxembourg,Brazil,23531630.0
+Luxembourg,Chile,5065189.0
+Luxembourg,Colombia,20308798.0
+Luxembourg,Czech Republic,1222185.0
+Luxembourg,India,36638705.0
+Luxembourg,Romania,133449.0
+Luxembourg,Slovak Republic,505732.0
+Luxembourg,South Africa,18699146.0
+Luxembourg,Thailand,5449188.0
+Monaco,Portugal,113058.0
+Monaco,Slovenia,285519.0
+Monaco,South Africa,542810.0
+Netherlands,Brazil,87040487.0
+Netherlands,Chile,127976174.0
+Netherlands,Colombia,642223602.0
+Netherlands,Cyprus,2179629.0
+Netherlands,Czech Republic,13571361.0
+Netherlands,Estonia,7298608.0
+Netherlands,Hungary,17119328.0
+Netherlands,India,6977708986.0
+Netherlands,Korea,491792.0
+Netherlands,Kuwait,60454.0
+Netherlands,Latvia,9186060.0
+Netherlands,Lithuania,11528962.0
+Netherlands,Poland,14269465.0
+Netherlands,Romania,35291746.0
+Netherlands,Saudi Arabia,227521.0
+Netherlands,Slovak Republic,19544856.0
+Netherlands,Slovenia,3407449.0
+Netherlands,South Africa,840526986.0
+Netherlands,Thailand,129993723.0
+New Zealand,Brazil,3055532.0
+New Zealand,Chile,7827589.0
+New Zealand,Colombia,1371917.0
+New Zealand,India,17973296.0
+New Zealand,Kuwait,153669.0
+New Zealand,South Africa,18156298.0
+New Zealand,Thailand,8211584.0
+Norway,Brazil,1070847764.0
+Norway,Chile,56575551.0
+Norway,Colombia,299650983.0
+Norway,Cyprus,1246375.0
+Norway,Czech Republic,582639.0
+Norway,Estonia,1561615.0
+Norway,Hungary,624435.0
+Norway,India,2147933250.0
+Norway,Latvia,2040225.0
+Norway,Lithuania,2461052.0
+Norway,Poland,2504790.0
+Norway,Romania,3776773.0
+Norway,Saudi Arabia,195375.0
+Norway,Slovak Republic,653165.0
+Norway,Slovenia,226588.0
+Norway,South Africa,689555304.0
+Norway,Thailand,136378534.0
+Poland,Brazil,69369.0
+Poland,Colombia,29314.0
+Poland,India,130823.0
+Poland,South Africa,122835.0
+Poland,Thailand,50843.0
+Portugal,Brazil,47190338.0
+Portugal,Chile,1146453.0
+Portugal,Colombia,425831.0
+Portugal,Cyprus,519768.0
+Portugal,Czech Republic,558965.0
+Portugal,Estonia,13279.0
+Portugal,Hungary,596536.0
+Portugal,India,6806655.0
+Portugal,Korea,338091.0
+Portugal,Latvia,2592.0
+Portugal,Poland,1243350.0
+Portugal,Romania,607604.0
+Portugal,Saudi Arabia,387.0
+Portugal,Slovak Republic,20705.0
+Portugal,Slovenia,30752.0
+Portugal,South Africa,8178120.0
+Portugal,Thailand,1221440.0
+Qatar,United States,104519053.0
+Saudi Arabia,Brazil,191647004.0
+Saudi Arabia,India,759651342.0
+Saudi Arabia,Korea,134511154.0
+Saudi Arabia,Taiwan,456120873.0
+Saudi Arabia,Thailand,156480316.0
+Slovak Republic,Brazil,14669.0
+Slovak Republic,Chile,2296.0
+Slovak Republic,Hungary,14132.0
+Slovak Republic,India,332552.0
+Slovak Republic,Taiwan,14202.0
+Slovak Republic,Thailand,17723.0
+Slovenia,Colombia,112880.0
+Slovenia,India,15983.0
+Slovenia,South Africa,21165.0
+Spain,Brazil,312007477.0
+Spain,Chile,211911806.0
+Spain,Colombia,1066811913.0
+Spain,Cyprus,229892.0
+Spain,Czech Republic,2745328.0
+Spain,Estonia,526284.0
+Spain,Hungary,3854725.0
+Spain,India,271820536.0
+Spain,Korea,685941.0
+Spain,Kuwait,20232.0
+Spain,Latvia,422270.0
+Spain,Lithuania,598482.0
+Spain,Poland,88269401.0
+Spain,Romania,24248203.0
+Spain,Saudi Arabia,14214.0
+Spain,Slovak Republic,3213545.0
+Spain,Slovenia,707340.0
+Spain,South Africa,19495582.0
+Spain,Taiwan,5937.0
+Spain,Thailand,7072193.0
+Spain,United Arab Emirates,34603.0
+Sweden,Brazil,26653699.0
+Sweden,Chile,177465428.0
+Sweden,Colombia,309592487.0
+Sweden,Czech Republic,1935937.0
+Sweden,Estonia,69832972.0
+Sweden,Hungary,2969663.0
+Sweden,India,3827796549.0
+Sweden,Kuwait,11228374.0
+Sweden,Latvia,121664819.0
+Sweden,Lithuania,104563110.0
+Sweden,Poland,94176270.0
+Sweden,Romania,10079723.0
+Sweden,Slovak Republic,1500392.0
+Sweden,Slovenia,3979854.0
+Sweden,South Africa,1416545325.0
+Sweden,Taiwan,8633.0
+Sweden,Thailand,184052641.0
+Switzerland,Brazil,95419283.0
+Switzerland,Chile,87963745.0
+Switzerland,Colombia,291509810.0
+Switzerland,Cyprus,6611736.0
+Switzerland,Czech Republic,13572863.0
+Switzerland,Estonia,337871.0
+Switzerland,Hungary,2322402.0
+Switzerland,India,1839499003.0
+Switzerland,Korea,249214.0
+Switzerland,Latvia,3969759.0
+Switzerland,Lithuania,191394.0
+Switzerland,Poland,3141751.0
+Switzerland,Romania,73441265.0
+Switzerland,Slovak Republic,8348274.0
+Switzerland,Slovenia,371519.0
+Switzerland,South Africa,273016890.0
+Switzerland,Taiwan,1091413.0
+Switzerland,Thailand,143029761.0
+Taiwan,India,5941100.0
+Taiwan,Poland,30163151.0
+Taiwan,Saudi Arabia,2004365.0
+Taiwan,South Africa,45628882.0
+Thailand,Cyprus,4469.0
+Thailand,South Africa,20992.0
+United Arab Emirates,Brazil,201889.0
+United Arab Emirates,Chile,77208.0
+United Arab Emirates,Colombia,330974.0
+United Arab Emirates,India,65489369.0
+United Arab Emirates,South Africa,1229361.0
+United Arab Emirates,Thailand,308185.0
+United Kingdom,Brazil,713312502.0
+United Kingdom,Chile,29636288.0
+United Kingdom,Colombia,215435718.0
+United Kingdom,Cyprus,13166610.0
+United Kingdom,Czech Republic,45582006.0
+United Kingdom,Estonia,3937712.0
+United Kingdom,Hungary,71021427.0
+United Kingdom,India,19921976117.0
+United Kingdom,Korea,3243556.0
+United Kingdom,Latvia,4937529.0
+United Kingdom,Lithuania,5670274.0
+United Kingdom,Poland,209349961.0
+United Kingdom,Romania,109722333.0
+United Kingdom,Saudi Arabia,671150.0
+United Kingdom,Slovak Republic,41318600.0
+United Kingdom,Slovenia,5171801.0
+United Kingdom,South Africa,1862114265.0
+United Kingdom,Taiwan,64426.0
+United Kingdom,Thailand,434207101.0
+United States,Australia,2572618261.0
+United States,Austria,769908525.0
+United States,Belgium,184346233.0
+United States,Brazil,13548341140.0
+United States,Canada,4068597498.0
+United States,Chile,3690681030.0
+United States,Colombia,17104240812.0
+United States,Cyprus,494019637.0
+United States,Czech Republic,1250055625.0
+United States,Denmark,166310586.0
+United States,Estonia,53126896.0
+United States,Finland,180621823.0
+United States,France,237532627.0
+United States,Greece,519377906.0
+United States,Hungary,1765304543.0
+United States,Iceland,18060045.0
+United States,India,16529832819.0
+United States,Ireland,934638729.0
+United States,Italy,2400034449.0
+United States,Japan,2080977585.0
+United States,Korea,11154361995.0
+United States,Kuwait,7727422143.0
+United States,Latvia,156604893.0
+United States,Liechtenstein,18264370.0
+United States,Lithuania,182453518.0
+United States,Luxembourg,555039832.0
+United States,New Zealand,225588310.0
+United States,Norway,368001981.0
+United States,Poland,2508547257.0
+United States,Portugal,175129548.0
+United States,Qatar,723167326.0
+United States,Romania,1686279765.0
+United States,Saudi Arabia,4440013519.0
+United States,Slovak Republic,94113865.0
+United States,Slovenia,6917157.0
+United States,South Africa,6678780430.0
+United States,Spain,561711808.0
+United States,Sweden,59757155.0
+United States,Taiwan,2831031587.0
+United States,Thailand,6495636611.0
+United States,United Arab Emirates,1544263.0
+United States,United Kingdom,957343964.0
