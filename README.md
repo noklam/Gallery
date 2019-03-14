@@ -5,6 +5,13 @@ Render HTML on Github
 https://htmlpreview.github.io/
 or
 https://noklam.github.io/Gallery/xxxx.html
+
+# Some Charts with altair
+![chart1](img/chart1.png)
+![chart2](img/chart2.png)
+![chart3](img/chart3.png)
+
+
 ## Make sure you install ipywidgets for Jupyter Notebook or install nodejs for JupyterLab, if you did not install the ipywidgets, you will see nothing render when you run the code.
 
 ## NodeJS
